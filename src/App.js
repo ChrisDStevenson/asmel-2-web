@@ -5,17 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={"https://media1.tenor.com/m/mpmbsd82G14AAAAC/wolf-of-wall-street-jordan-belfort.gif"} />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Sophie 2.0 Progressive Web App coming soon!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/OneBased-LLC/sophie-2-web"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit OneBased to see the magic!
         </a>
       </header>
     </div>
