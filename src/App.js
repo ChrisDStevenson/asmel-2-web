@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={"https://media1.tenor.com/m/mpmbsd82G14AAAAC/wolf-of-wall-street-jordan-belfort.gif"} />
+        <img src={"https://media1.tenor.com/m/mpmbsd82G14AAAAC/wolf-of-wall-street-jordan-belfort.gif"} alt={"funnygif"} />
         <p>
           Sophie 2.0 Progressive Web App coming soon!
         </p>
